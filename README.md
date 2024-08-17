@@ -31,7 +31,9 @@ Related videos:
 - 100 Themes in 1 Hour: https://youtu.be/F6b85vHGwGI
 
 
-![Uploading THUMB_nixie_tube_shifter2.jpg…]()
+![THUMB_nixie_tube_shifter2](https://github.com/user-attachments/assets/9cb36315-acad-4ac4-98e9-dc18e2888c72)
+
+
 
 
 _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. Thank you, PCBWay! https://www.pcbway.com/setinvite.aspx?inviteid=572577_
