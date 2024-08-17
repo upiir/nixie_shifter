@@ -40,6 +40,13 @@ _This video is sponsored by PCBWay. By using the link, you can get 10 PCBs for f
 
 Small Animations:
 
+![nixie_shifter_knob_tilt](https://github.com/user-attachments/assets/7ae193cf-ec25-432e-bb7c-7cc1ae2a853f)
+
+
+![nixie_shifter_knob_one_two_three](https://github.com/user-attachments/assets/66eb3494-e91f-4741-9fa4-4004cc0b6b98)
+
+
+
 
 
 Screenshots from the video:
