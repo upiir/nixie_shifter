@@ -1,4 +1,4 @@
-![CAMTASIA_easynixie_nixie_tube (Time 0_17_21;18)](https://github.com/user-attachments/assets/d734fcaa-3a90-4c2a-9c33-eabf6b77dc4d)# Car Shifter with Nixie Tube Display
+# Car Shifter with Nixie Tube Display
 Car Shifter with Nixie Tube Display
 
 **YouTube video: https://youtu.be/_gC2J5ZqJfQ**
